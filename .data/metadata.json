@@ -1,0 +1,16 @@
+{
+  "0x3effe352c4b5ae3a5f0ec14430d4708e308b7d36a885c2bfcbf3231a2b790c50": "{\"name\":\"Test Item\",\"image\":\"\",\"attributes\":[{\"trait_type\":\"type\",\"value\":\"demo\"}]}",
+  "0x1a5d6cb6ecd5059e65b5a6e8117beede444b8b1152787f00a4d98dca32f02fd4": "{\"name\":\"TEST\",\"image\":\"\",\"attributes\":[]}",
+  "0x852daa74cc3c31fe64542bb9b8764cfb91cc30f9acf9389071ffb44a9eefde46": "{name:\"hello\"}",
+  "0x85cc825a98ec217d960f113f5f80a95d7fd18e3725d37df428eb14f880bdfc12": "{\"name\":\"tttt\",\"image\":\"http://localhost:3000/\",\"attributes\":{},\"storeOnChain\":false}",
+  "0x55d2277419a0c44fd93b1c67a975b5e830aeafd9e54942255101fff2f3d08e04": "{\"name\":\"On-chain Demo\",\"image\":\"\",\"attributes\":[{\"trait_type\":\"tier\",\"value\":\"gold\"}]}",
+  "0x936a8e72a58e48eca7e6568f516206266f94cc2ffe4e52b1a63d195020a7bbe0": "{\"name\":\"Test\",\"image\":\"\",\"attributes\":[]}",
+  "0x0ad7e3cea47c68993bbcd6a9d1e4f31bf5ed2de38996998c750f89bedc007565": "{\"name\":\"Tes\",\"image\":\"\",\"attributes\":{},\"storeOnChain\":false}",
+  "0xe5498d83b0c3beade2770bbc0a9bf39b8441e0eda3fd5b0fc2c2a4d3bc4b3e85": "{\"name\":\"Test\",\"image\":\"\",\"attributes\":{}}",
+  "0xdeaf58bc8ffe7a04352130deafa94f9940ac45272629c3c1c61cb653f8881966": "{\"name\":\"TTTT\",\"image\":\"\",\"attributes\":{},\"storeOnChain\":true}",
+  "0x036dc308ae27a2938034d30478609519f047c3231712e116644b60a6f3f6e4e6": "{\"name\":\"cash\",\"image\":\"https://v0.app/chat/metadata-store-ui-n4C1NaJ88zU\",\"attributes\":{},\"storeOnChain\":false}",
+  "0x9c719cece27269639f35af758973dcfa0f625e14f52b13046bcde1efdeb119e2": "{\"name\":\"CASH\",\"image\":\"\",\"attributes\":{},\"storeOnChain\":false}",
+  "0x7751bf5f5bb0814a652117a2809b931cb2de7fb2a357b53e4ff18c2d046d6e6b": "{\"name\":\"\",\"image\":\"\",\"attributes\":[]}",
+  "0xdb63c3db32a5a62dcded3064c4bf0552027dcbeaca3b86719ed79fa97b9927b9": "{\"name\":\"KKKK\",\"image\":\"\",\"attributes\":{},\"storeOnChain\":false}",
+  "0x60389d2f914e263c78c603cc4a90c074254a7c9d7b57bdef757761c5a9b1b333": "{\"name\":\"tttttt\",\"image\":\"\",\"attributes\":{},\"storeOnChain\":false}"
+}
